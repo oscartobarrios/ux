@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Alarma</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Login</string>
+    <string name="title_dashboard">Programar</string>
+    <string name="title_notifications">Alarmas</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
@@ -13,4 +13,8 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="hora">Hora</string>
+    <string name="Descripcion">Descripciòn de la alarma</string>
+    <string name="formatoHora">HH:MM</string>
+    <string name="Guardar">Guardar</string>
 </resources>

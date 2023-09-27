@@ -33,7 +33,7 @@
         android:id="@+id/password"
         android:layout_width="164dp"
         android:layout_height="48dp"
-        android:layout_marginTop="92dp"
+        android:layout_marginTop="56dp"
         android:autofillHints=""
         android:hint="@string/prompt_password"
         android:inputType="text|textAutoComplete"
@@ -41,20 +41,33 @@
         app:layout_constraintStart_toStartOf="@+id/textView2"
         app:layout_constraintTop_toBottomOf="@+id/username" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="64dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="4dp"
+        android:fontFamily="@font/roboto"
+        android:text="Clave"
+        app:layout_constraintBottom_toTopOf="@+id/password"
+        app:layout_constraintStart_toStartOf="@+id/username"
+        app:layout_constraintTop_toBottomOf="@+id/username"
+        app:layout_constraintVertical_bias="0.735"
+        tools:ignore="TextSizeCheck" />
+
     <com.google.android.material.button.MaterialButton
         android:id="@+id/login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="start"
-        android:layout_marginBottom="64dp"
         android:enabled="true"
         android:text="@string/cancelar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.079"
-        app:layout_constraintStart_toStartOf="@+id/imageView"
-        app:layout_constraintTop_toBottomOf="@+id/password"
-        app:layout_constraintVertical_bias="0.787" />
+        app:layout_constraintHorizontal_bias="0.073"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="64dp"
+        app:layout_constraintVertical_bias="0.800" />
 
     <Button
         android:id="@+id/login2"
@@ -66,10 +79,10 @@
         android:textAllCaps="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/imageView"
-        app:layout_constraintHorizontal_bias="0.825"
+        app:layout_constraintHorizontal_bias="0.808"
         app:layout_constraintStart_toEndOf="@+id/login"
-        app:layout_constraintTop_toBottomOf="@+id/password"
-        app:layout_constraintVertical_bias="0.787" />
+        app:layout_constraintTop_toTopOf="@+id/login"
+        app:layout_constraintVertical_bias="0.0" />
 
     <ProgressBar
         android:id="@+id/loading"
@@ -89,11 +102,11 @@
         android:id="@+id/imageView"
         android:layout_width="292dp"
         android:layout_height="164dp"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="16dp"
         android:contentDescription="@string/login_failed"
         android:cropToPadding="false"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="ImageContrastCheck" />
@@ -112,19 +125,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:layout_constraintVertical_bias="0.0"
-        tools:ignore="TextSizeCheck" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="64dp"
-        android:layout_height="22dp"
-        android:layout_marginStart="4dp"
-        android:fontFamily="@font/roboto"
-        android:text="Clave"
-        app:layout_constraintBottom_toTopOf="@+id/password"
-        app:layout_constraintStart_toStartOf="@+id/username"
-        app:layout_constraintTop_toBottomOf="@+id/username"
-        app:layout_constraintVertical_bias="0.842"
         tools:ignore="TextSizeCheck" />
 
     <androidx.constraintlayout.widget.Barrier

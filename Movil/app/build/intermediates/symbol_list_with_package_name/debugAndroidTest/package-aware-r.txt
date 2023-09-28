@@ -1,0 +1,3 @@
+co.com.futsal.alarma.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,6 @@
+co.com.futsal.alarma.test.app-core-1.5.0-0 C:\Users\Desarrollo\.gradle\caches\transforms-3\12087d3b9e9ed1646232328e7220cadc\transformed\core-1.5.0\res
+co.com.futsal.alarma.test.app-annotation-experimental-1.3.0-1 C:\Users\Desarrollo\.gradle\caches\transforms-3\70c573556c37ca1af1af7fbdbeea79bb\transformed\annotation-experimental-1.3.0\res
+co.com.futsal.alarma.test.app-androidTest-2 D:\Repositorios\ux\ux\Movil\app\build\generated\res\resValues\androidTest\debug
+co.com.futsal.alarma.test.app-mergeDebugAndroidTestResources-3 D:\Repositorios\ux\ux\Movil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+co.com.futsal.alarma.test.app-mergeDebugAndroidTestResources-4 D:\Repositorios\ux\ux\Movil\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+co.com.futsal.alarma.test.app-merged_res-5 D:\Repositorios\ux\ux\Movil\app\build\intermediates\merged_res\debugAndroidTest

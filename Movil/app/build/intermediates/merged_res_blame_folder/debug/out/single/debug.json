@@ -1,0 +1,586 @@
+[
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_perro_corre2.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_perro_corre2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_setup.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_sonido_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_sonido_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_alarma_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_alarma_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_dogrunning.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\dogrunning.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_setup_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_setup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_alarma_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_alarma_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro_corre2.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro_corre2.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro_corre2_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro_corre2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_sonido.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_sonido.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_sonido_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_sonido_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_setup_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_setup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_setup.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro_corre_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro_corre_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_perro_corre_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_perro_corre_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_sonido_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_sonido_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_sonido_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_sonido_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_alarma.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_alarma.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro_corre2_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro_corre2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_alarma.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_alarma.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro_corre2_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro_corre2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro_corre_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro_corre_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_baseline_pets_24.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\baseline_pets_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro_corre2_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro_corre2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\layout-w1240dp_activity_login.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\layout-w1240dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable-xhdpi_fondo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable-xhdpi\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_setup.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_perro_corre_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_perro_corre_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro_corre.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro_corre.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_down_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_down_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro_corre2_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro_corre2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro_corre_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro_corre_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_perro_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_perro_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro_corre2_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro_corre2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro_corre2.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro_corre2.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro_corre.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro_corre.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro_corre2.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro_corre2.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_down_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_down_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_alarma.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_alarma.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro_corre2_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro_corre2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_down_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_down_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_alarma_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_alarma_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_sonido.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_sonido.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro_corre_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro_corre_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_alarma.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_alarma.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_setup_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_setup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro_corre_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro_corre_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_perro_corre2_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_perro_corre2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_fondoperros.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\fondoperros.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_sonido.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_sonido.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\font_roboto.ttf.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\font\\roboto.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_setup_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_setup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_down_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_down_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_setup_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_setup_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_down.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_sonido.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_sonido.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_down_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_down_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable-xxhdpi_fondo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable-xxhdpi\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro_corre.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro_corre.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_perro.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_perro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_setup.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_setup_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_setup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_setup.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_perro_corre.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_perro_corre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_down_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_down_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_sonido.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_sonido.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\font_roboto_thin.ttf.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\font\\roboto_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_setup.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro_corre_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro_corre_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_sonido_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_sonido_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_setup_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_setup_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_alarma_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_alarma_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro_corre2_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro_corre2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_sonido_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_sonido_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_perro_corre2_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_perro_corre2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable-hdpi_fondo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable-hdpi\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_alarma.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_alarma.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro_corre.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro_corre.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_sonido_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_sonido_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable-mdpi_fondo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable-mdpi\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro_corre2.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro_corre2.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_down_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_down_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_fondo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_sonido.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_sonido.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_sonido_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_sonido_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_alarma_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_alarma_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_alarma_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_alarma_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro_corre2.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro_corre2.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_perro_corre_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_perro_corre_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro_corre.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro_corre.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro_corre2_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro_corre2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_setup_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_setup_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_perro_corre_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_perro_corre_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_perro_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_perro_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro_corre_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro_corre_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_perro.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_perro.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_perro_corre2_foreground.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_perro_corre2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\layout-w936dp_activity_login.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\layout-w936dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-hdpi_ic_perro_corre_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-hdpi\\ic_perro_corre_round.png"
+    },
+    {
+        "merged": "co.com.futsal.alarma.app-merged_res-48:/layout_fragment_notifications.xml.flat",
+        "source": "co.com.futsal.alarma.app-main-50:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable_ic_down_background.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable\\ic_down_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xhdpi_ic_alarma_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xhdpi\\ic_alarma_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-anydpi-v26_ic_perro_round.xml.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-anydpi-v26\\ic_perro_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxxhdpi_ic_alarma_round.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxxhdpi\\ic_alarma_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\drawable-xxxhdpi_fondo.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\drawable-xxxhdpi\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-merged_res-48:\\mipmap-xxhdpi_ic_alarma.png.flat",
+        "source": "C:\\Users\\Desarrollo\\.gradle\\daemon\\8.0\\co.com.futsal.alarma.app-main-50:\\mipmap-xxhdpi\\ic_alarma.png"
+    }
+]

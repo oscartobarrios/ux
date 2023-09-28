@@ -20,6 +20,10 @@ function inicio() {
     window.open("login.html", "_self");        
 }
 
+function entrar() {
+    window.open("index.html", "_self");        
+}
+
 function verificar(){
     let usr = document.getElementById("usuario").value
         

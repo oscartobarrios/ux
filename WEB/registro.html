@@ -12,34 +12,48 @@
   <link rel="stylesheet" href="css/misestilos.css" />
 </head>
 
-<body  class="d-flex vh-100 bg-info justify-content-center align-items-center body-oscar" >
+<body  class="d-flex vh-100 bg-info justify-content-center align-items-center">
   
 
-          <div class="bg-white p-5 rounded-4" style="width: 60rem">
+          <div class="bg-white p-5 rounded-4 fondo-oscar" style="width: 60rem">
             <div class="">
   
               <h3 class="fs-1 fw-bold text-center">INICIAR SESION</h3>
   
               <div class="mx-auto" style="width: 20rem">
                 <div class="mt-4">
-                  <label class="form-label " for="usuario">USUARIO</label>
-                  <input class="form-control form-control-lg " type="email" id="usuario"  />
+                  <label class="form-label " for="nombres">NOMBRES</label>
+                  <input class="form-control form-control-lg " type="text" id="nombres"  />
                 </div>
     
                 <div class="mt-2">
-                  <label class="form-label" for="clave">CONTRASEÑA</label>
-                  <input class="form-control form-control-lg" type="password" id="clave"  />
+                  <label class="form-label" for="apellidos">APELLIDOS</label>
+                  <input class="form-control form-control-lg" type="text" id="apellidos"  />
                 </div>
+
+                <div class="mt-4">
+                    <label class="form-label " for="usuario">USUARIO</label>
+                    <input class="form-control form-control-lg " type="email" id="usuario"  />
+                  </div>
+                
+                  <div class="mt-2">
+                    <label class="form-label" for="clave">CONTRASEÑA</label>
+                    <input class="form-control form-control-lg" type="password" id="clave"  />
+                  </div>
+
+                  <div class="mt-2">
+                    <label class="form-label" for="clave2">REPETIR CONTRASEÑA</label>
+                    <input class="form-control form-control-lg" type="password" id="clave2"  />
+                  </div>  
     
-                <button class="btn btn-lg btn-primary mt-5" style="width: 20rem" type="submit" onclick="validar()">LOG IN</button>
+                <button class="btn btn-lg btn-primary mt-5" style="width: 20rem" type="submit" onclick="entrar()">REGISTRARSE</button>
+                <button class="btn btn-lg btn-primary mt-3" style="width: 20rem" type="submit" onclick="inicio()">VOLVER</button>
               </div>
               
               
               
               <br>
-              <div class="text-center"> <a href="recuperar.html">¿ Recuperar Clave ?</a></div>
-              
-              <div class="text-center"><a href="registro.html">Registrarse</a></div>
+            
   
             </div>
           </div>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Alarma para PAsear Perros</title>
+
+  <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" />
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/misestilos.css" />
+</head>
+
+<body  class="d-flex vh-100 bg-info justify-content-center align-items-center body-oscar" >
+  
+
+          <div class="bg-white p-5 rounded-4" style="width: 60rem">
+            <div class="">
+  
+              <h3 class="fs-1 fw-bold text-center">INICIAR SESION</h3>
+  
+              <div class="mx-auto" style="width: 20rem">
+                <div class="mt-4">
+                  <label class="form-label " for="usuario">USUARIO</label>
+                  <input class="form-control form-control-lg " type="email" id="usuario"  />
+                </div>
+    
+                <div class="mt-2">
+                  <label class="form-label" for="clave">CONTRASEÑA</label>
+                  <input class="form-control form-control-lg" type="password" id="clave"  />
+                </div>
+    
+                <button class="btn btn-lg btn-primary mt-5" style="width: 20rem" type="submit" onclick="validar()">LOG IN</button>
+              </div>
+              
+              
+              
+              <br>
+              <div class="text-center"> <a href="recuperar.html">¿ Recuperar Clave ?</a></div>
+              
+              <div class="text-center"><a href="registro.html">Registrarse</a></div>
+  
+            </div>
+          </div>
+
+          <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+            <div id="clavemala" class="toast" role="error" aria-live="assertive" aria-atomic="true">
+              <div class="toast-header">
+               
+                <strong class="me-auto">Error de Contraseña</strong>
+                <small>Alarma de Mascotas</small>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+              </div>
+              <div class="toast-body">
+                Revise que la contraseña sea correcta
+              </div>
+            </div>
+          </div>
+
+   
+  
+  <!-- mi codigo -->
+  <script type="text/javascript" src="js/funciones.js"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

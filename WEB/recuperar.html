@@ -17,7 +17,7 @@
           <div class="bg-white p-5 rounded-4" style="width: 60rem">
             <div class="">
   
-              <h3 class="fs-1 fw-bold text-center">INICIAR SESION</h3>
+              <h3 class="fs-1 fw-bold text-center">RECUPERAR CLAVE</h3>
   
               <div class="mx-auto" style="width: 20rem">
                 <div class="mt-4">
@@ -25,12 +25,10 @@
                   <input class="form-control form-control-lg " type="email" id="usuario"  />
                 </div>
     
-                <div class="mt-2">
-                  <label class="form-label" for="typePasswordX-2">CONTRASEÑA</label>
-                  <input class="form-control form-control-lg" type="password" id="clave"  />
-                </div>
+              
     
-                <button class="btn btn-lg btn-primary mt-5" style="width: 20rem" type="submit" onclick="validar()">LOG IN</button>
+                <button class="btn btn-lg btn-primary mt-5" style="width: 20rem" type="submit" onclick="verificar()">VERIFICAR</button>
+                <button class="btn btn-lg btn-primary mt-5" style="width: 20rem" type="submit" onclick="inicio()">VOLVER</button>
               </div>
               
               
@@ -44,15 +42,43 @@
           </div>
 
           <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
-            <div id="clavemala" class="toast" role="error" aria-live="assertive" aria-atomic="true">
+            <div id="noexiste" class="toast" role="error" aria-live="assertive" aria-atomic="true">
               <div class="toast-header">
                
-                <strong class="me-auto">Error de Contraseña</strong>
+                <strong class="me-auto">LA CUENTA NO EXISTE </strong>
                 <small>Alarma de Mascotas</small>
                 <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
               </div>
               <div class="toast-body">
-                Revise que la contraseña sea correcta
+                Revise que este correcta
+              </div>
+            </div>
+          </div>
+
+          <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+            <div id="vacio" class="toast" role="error" aria-live="assertive" aria-atomic="true">
+              <div class="toast-header">
+               
+                <strong class="me-auto">CAMPO VACIO </strong>
+                <small>Alarma de Mascotas</small>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+              </div>
+              <div class="toast-body">
+                INGRESE EL CORREO PARA QUE PUEDA RESTAURAR
+              </div>
+            </div>
+          </div>
+
+          <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+            <div id="enviado" class="toast" role="error" aria-live="assertive" aria-atomic="true">
+              <div class="toast-header">
+               
+                <strong class="me-auto">ENVIADO </strong>
+                <small>Alarma de Mascotas</small>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+              </div>
+              <div class="toast-body">
+                SU CLAVE HA SIDO ENVIADA AL CORREO
               </div>
             </div>
           </div>
